@@ -1,6 +1,6 @@
 # Nalda Cartoon Rendering
 Nalda Cartoon Rendering: 강력한 이미지-만화 변환기
-
+![스크린샷](screenshot.png)
 ## 소개
 Nalda Cartoon Rendering은 일반 이미지를 만화 스타일로 변환하는 프로그램입니다. OpenCV의 이미지 처리 기술을 활용하여 사진에 만화적인 효과를 적용합니다.
 
